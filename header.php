@@ -23,7 +23,8 @@
             <div class="mobile-menu-wrapper">
                <div class="nav-top">
                   <ul id="menu-main" class="main-nav__list">
-                     <li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="#">About Us</a></li>
+                     <li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="#">About Us</a>
+                     </li>
                      <li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="#">What we do</a></li>
                      <li id="menu-item-1119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1119"><a href="#">Second Opinion</a></li>
                      <li id="menu-item-1213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1213"><a href="#">Post Covid</a></li>
